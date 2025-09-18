@@ -12,7 +12,7 @@ Previously, I was an Embedded Software Engineer at Deimos (Madrid & Oxford), whe
 - **Frameworks:** ROS 2, WPF, Windows Forms, PlatformIO
 - **Embedded Systems:** Arduino, ESP32, Nvidia Jetson, Xilinx Zynq
 - **Computer Vision:** OpenCV, PyTorch, ONNX, 2D Imaging, 3D Point Clouds, Depth Cameras
-- **Development Tools:** PlatformIO, Visual Studio, JetBrains, Git, GitHub Actions
+- **Development Tools:** PlatformIO, Visual Studio, Visual Studio Code, Git, GitHub Actions
 
 ## 🌟 Featured Projects
 
